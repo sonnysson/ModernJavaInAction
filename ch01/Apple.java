@@ -1,4 +1,4 @@
-package Stream;
+package ModernJavaInAction.ch01;
 
 public class Apple {
     public int getWeight() {
